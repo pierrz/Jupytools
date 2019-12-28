@@ -1,0 +1,9 @@
+
+/!\ -------- logs : setspec 'ycba:pd' --------
+/!\ 2019-11-15T20:33:44.774528 --> Downloading page 0 ... 
+	 - from https://collections.britishart.yale.edu/oaicatmuseum/OAIHandler?verb=ListRecords&metadataPrefix=lido&set=ycba:pd
+	 - to   :/Users/pierre/Code/Jupyter/Python/Tools/OAI-PMH harvester/output/2019-11-15T20:33:44.773983/data/page_0.xml
+/!\ -------- logs : setspec 'ycba%3Aframes' --------
+/!\ 2019-11-15T20:34:16.916508 --> Downloading page 1 ... 
+	 - from https://collections.britishart.yale.edu/oaicatmuseum/OAIHandler?verb=ListRecords&metadataPrefix=lido&set=ycba%3Aframes
+	 - to   :/Users/pierre/Code/Jupyter/Python/Tools/OAI-PMH harvester/output/2019-11-15T20:33:44.773983/data/page_1.xml

@@ -1,0 +1,36 @@
+
+/!\ --> Page 1
+/!\ http://api.repo.nypl.org/api/v1/items/search?&publicDomainOnly=true&q=Photographs&per_page=5&field=genre
+/!\ 138,604 items retrieved from the search 'Photographs'
+	 - 
+27,721 pages to process
+/!\ 
+--> Item #0/138,604
+/!\ http://api.repo.nypl.org/api/v1/items/mods_captures/7d71ff40-b3cb-0132-6b3b-58d385a7bbd0
+/!\ - json file created --> ok
+/!\ - xml file created --> ok
+/!\ 
+--> Item #1/138,604
+/!\ http://api.repo.nypl.org/api/v1/items/mods_captures/d62998c0-b45c-0132-b812-58d385a7b928
+/!\ - json file created --> ok
+/!\ - xml file created --> ok
+/!\ 
+--> Item #2/138,604
+/!\ http://api.repo.nypl.org/api/v1/items/mods_captures/c91a6ca0-b462-0132-b9ba-58d385a7bbd0
+/!\ - json file created --> ok
+/!\ - xml file created --> ok
+/!\ 
+--> Item #3/138,604
+/!\ http://api.repo.nypl.org/api/v1/items/mods_captures/6cf6f150-b53e-0132-e134-58d385a7bbd0
+/!\ - json file created --> ok
+/!\ - xml file created --> ok
+/!\ 
+--> Item #4/138,604
+/!\ http://api.repo.nypl.org/api/v1/items/mods_captures/92bb1610-b54e-0132-aa1c-58d385a7b928
+/!\ - json file created --> ok
+/!\ - xml file created --> ok
+/!\ --> Page 2
+/!\ http://api.repo.nypl.org/api/v1/items/search?&publicDomainOnly=true&q=Photographs&per_page=5&field=genre&page=2
+/!\ 
+--> Item #5/138,604
+/!\ http://api.repo.nypl.org/api/v1/items/mods_captures/d4fe0d10-b54f-0132-271f-58d385a7b928

@@ -1,0 +1,192 @@
+
+/!\ --> Page 1
+/!\ http://api.repo.nypl.org/api/v1/items/search?&publicDomainOnly=true&q=Photographs&per_page=5&field=genre
+/!\ 138,604 items retrieved from the search 'Photographs'
+	 - 
+27,721 pages to process
+/!\ 
+--> Item #1/138,604
+/!\ http://api.repo.nypl.org/api/v1/items/mods_captures/7d71ff40-b3cb-0132-6b3b-58d385a7bbd0
+/!\ - json file created --> ok
+/!\ - xml file created --> ok
+/!\ 
+--> Item #2/138,604
+/!\ http://api.repo.nypl.org/api/v1/items/mods_captures/d62998c0-b45c-0132-b812-58d385a7b928
+/!\ - json file created --> ok
+/!\ - xml file created --> ok
+/!\ 
+--> Item #3/138,604
+/!\ http://api.repo.nypl.org/api/v1/items/mods_captures/c91a6ca0-b462-0132-b9ba-58d385a7bbd0
+/!\ - json file created --> ok
+/!\ - xml file created --> ok
+/!\ 
+--> Item #4/138,604
+/!\ http://api.repo.nypl.org/api/v1/items/mods_captures/6cf6f150-b53e-0132-e134-58d385a7bbd0
+/!\ - json file created --> ok
+/!\ - xml file created --> ok
+/!\ 
+--> Item #5/138,604
+/!\ http://api.repo.nypl.org/api/v1/items/mods_captures/92bb1610-b54e-0132-aa1c-58d385a7b928
+/!\ - json file created --> ok
+/!\ - xml file created --> ok
+/!\ --> Page 2
+/!\ http://api.repo.nypl.org/api/v1/items/search?&publicDomainOnly=true&q=Photographs&per_page=5&field=genre&page=2
+/!\ 
+--> Item #6/138,604
+/!\ http://api.repo.nypl.org/api/v1/items/mods_captures/d4fe0d10-b54f-0132-271f-58d385a7b928
+/!\ - json file created --> ok
+/!\ - xml file created --> ok
+/!\ 
+--> Item #7/138,604
+/!\ http://api.repo.nypl.org/api/v1/items/mods_captures/78a36bf0-b54f-0132-e5af-58d385a7b928
+/!\ - json file created --> ok
+/!\ - xml file created --> ok
+/!\ 
+--> Item #8/138,604
+/!\ http://api.repo.nypl.org/api/v1/items/mods_captures/2ed21650-b553-0132-de0f-58d385a7b928
+/!\ - json file created --> ok
+/!\ - xml file created --> ok
+/!\ 
+--> Item #9/138,604
+/!\ http://api.repo.nypl.org/api/v1/items/mods_captures/a0f15a30-b55a-0132-44de-58d385a7bbd0
+/!\ - json file created --> ok
+/!\ - xml file created --> ok
+/!\ 
+--> Item #10/138,604
+/!\ http://api.repo.nypl.org/api/v1/items/mods_captures/f99830d0-b55c-0132-3a03-58d385a7bbd0
+/!\ - json file created --> ok
+/!\ - xml file created --> ok
+/!\ --> Page 3
+/!\ http://api.repo.nypl.org/api/v1/items/search?&publicDomainOnly=true&q=Photographs&per_page=5&field=genre&page=3
+/!\ 
+--> Item #11/138,604
+/!\ http://api.repo.nypl.org/api/v1/items/mods_captures/ddbc2e70-b55d-0132-ea70-58d385a7bbd0
+/!\ - json file created --> ok
+/!\ - xml file created --> ok
+/!\ 
+--> Item #12/138,604
+/!\ http://api.repo.nypl.org/api/v1/items/mods_captures/622b9cb0-b560-0132-10f1-58d385a7bbd0
+/!\ - json file created --> ok
+/!\ - xml file created --> ok
+/!\ 
+--> Item #13/138,604
+/!\ http://api.repo.nypl.org/api/v1/items/mods_captures/0b44f260-b561-0132-eeb0-58d385a7bbd0
+/!\ - json file created --> ok
+/!\ - xml file created --> ok
+/!\ 
+--> Item #14/138,604
+/!\ http://api.repo.nypl.org/api/v1/items/mods_captures/c9658440-b5f4-0132-38cf-58d385a7b928
+/!\ - json file created --> ok
+/!\ - xml file created --> ok
+/!\ 
+--> Item #15/138,604
+/!\ http://api.repo.nypl.org/api/v1/items/mods_captures/f7fe9600-b5f4-0132-a957-58d385a7b928
+/!\ - json file created --> ok
+/!\ - xml file created --> ok
+/!\ --> Page 4
+/!\ http://api.repo.nypl.org/api/v1/items/search?&publicDomainOnly=true&q=Photographs&per_page=5&field=genre&page=4
+/!\ 
+--> Item #16/138,604
+/!\ http://api.repo.nypl.org/api/v1/items/mods_captures/ad33dc30-b94c-0132-5576-58d385a7bbd0
+/!\ - json file created --> ok
+/!\ - xml file created --> ok
+/!\ 
+--> Item #17/138,604
+/!\ http://api.repo.nypl.org/api/v1/items/mods_captures/1adcf910-b9e2-0132-696a-58d385a7bbd0
+/!\ - json file created --> ok
+/!\ - xml file created --> ok
+/!\ 
+--> Item #18/138,604
+/!\ http://api.repo.nypl.org/api/v1/items/mods_captures/7a702c20-ba0e-0132-0340-58d385a7b928
+/!\ - json file created --> ok
+/!\ - xml file created --> ok
+/!\ 
+--> Item #19/138,604
+/!\ http://api.repo.nypl.org/api/v1/items/mods_captures/31972610-ba0f-0132-8b5e-58d385a7b928
+/!\ - json file created --> ok
+/!\ - xml file created --> ok
+/!\ 
+--> Item #20/138,604
+/!\ http://api.repo.nypl.org/api/v1/items/mods_captures/5c8f56a0-ba10-0132-8865-58d385a7b928
+/!\ - json file created --> ok
+/!\ - xml file created --> ok
+/!\ --> Page 5
+/!\ http://api.repo.nypl.org/api/v1/items/search?&publicDomainOnly=true&q=Photographs&per_page=5&field=genre&page=5
+/!\ 
+--> Item #21/138,604
+/!\ http://api.repo.nypl.org/api/v1/items/mods_captures/35e49cf0-ba12-0132-c2f5-58d385a7bbd0
+/!\ - json file created --> ok
+/!\ - xml file created --> ok
+/!\ 
+--> Item #22/138,604
+/!\ http://api.repo.nypl.org/api/v1/items/mods_captures/81dc9c20-bac6-0132-4108-58d385a7b928
+/!\ - json file created --> ok
+/!\ - xml file created --> ok
+/!\ 
+--> Item #23/138,604
+/!\ http://api.repo.nypl.org/api/v1/items/mods_captures/d17a40a0-bac9-0132-e4a9-58d385a7bbd0
+/!\ - json file created --> ok
+/!\ - xml file created --> ok
+/!\ 
+--> Item #24/138,604
+/!\ http://api.repo.nypl.org/api/v1/items/mods_captures/6ee974c0-bacb-0132-0f34-58d385a7b928
+/!\ - json file created --> ok
+/!\ - xml file created --> ok
+/!\ 
+--> Item #25/138,604
+/!\ http://api.repo.nypl.org/api/v1/items/mods_captures/9f71ba50-bad1-0132-8a5a-58d385a7bbd0
+/!\ - json file created --> ok
+/!\ - xml file created --> ok
+/!\ --> Page 6
+/!\ http://api.repo.nypl.org/api/v1/items/search?&publicDomainOnly=true&q=Photographs&per_page=5&field=genre&page=6
+/!\ 
+--> Item #26/138,604
+/!\ http://api.repo.nypl.org/api/v1/items/mods_captures/91d3cb50-bb8f-0132-8b56-58d385a7b928
+/!\ - json file created --> ok
+/!\ - xml file created --> ok
+/!\ 
+--> Item #27/138,604
+/!\ http://api.repo.nypl.org/api/v1/items/mods_captures/65f2ff30-bb91-0132-ce73-58d385a7b928
+/!\ - json file created --> ok
+/!\ - xml file created --> ok
+/!\ 
+--> Item #28/138,604
+/!\ http://api.repo.nypl.org/api/v1/items/mods_captures/13ae5890-bb94-0132-32c3-58d385a7b928
+/!\ - json file created --> ok
+/!\ - xml file created --> ok
+/!\ 
+--> Item #29/138,604
+/!\ http://api.repo.nypl.org/api/v1/items/mods_captures/4d574710-bb9b-0132-f3b4-58d385a7b928
+/!\ - json file created --> ok
+/!\ - xml file created --> ok
+/!\ 
+--> Item #30/138,604
+/!\ http://api.repo.nypl.org/api/v1/items/mods_captures/f4e80ae0-bb9c-0132-8cdd-58d385a7b928
+/!\ - json file created --> ok
+/!\ - xml file created --> ok
+/!\ --> Page 7
+/!\ http://api.repo.nypl.org/api/v1/items/search?&publicDomainOnly=true&q=Photographs&per_page=5&field=genre&page=7
+/!\ 
+--> Item #31/138,604
+/!\ http://api.repo.nypl.org/api/v1/items/mods_captures/c13e4930-bf61-0132-2c33-58d385a7b928
+/!\ - json file created --> ok
+/!\ - xml file created --> ok
+/!\ 
+--> Item #32/138,604
+/!\ http://api.repo.nypl.org/api/v1/items/mods_captures/1c429940-bf7f-0132-bf2a-58d385a7b928
+/!\ - json file created --> ok
+/!\ - xml file created --> ok
+/!\ 
+--> Item #33/138,604
+/!\ http://api.repo.nypl.org/api/v1/items/mods_captures/76bcfd20-c0f4-0132-61f7-58d385a7bbd0
+/!\ - json file created --> ok
+/!\ - xml file created --> ok
+/!\ 
+--> Item #34/138,604
+/!\ http://api.repo.nypl.org/api/v1/items/mods_captures/bfb20df0-c0f7-0132-413a-58d385a7bbd0
+/!\ - json file created --> ok
+/!\ - xml file created --> ok
+/!\ 
+--> Item #35/138,604
+/!\ http://api.repo.nypl.org/api/v1/items/mods_captures/74b41030-c0f7-0132-86c5-58d385a7bbd0
+/!\ - json file created --> ok

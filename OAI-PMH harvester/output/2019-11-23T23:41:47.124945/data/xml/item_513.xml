@@ -1,0 +1,112 @@
+<response>
+    <headers>
+      <status>success</status>
+      <code>200</code>
+      <message>ok</message>
+    </headers>
+<mods version="3.4" schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo supplied="yes" usage="primary">
+    <title>Unidentified baseball player in catching form</title>
+  </titleInfo>
+  <name authority="naf" type="personal" valueURI="http://id.loc.gov/authorities/names/n84216253">
+    <namePart>Spalding, A. G. (Albert Goodwill)</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="code" valueURI="http://id.loc.gov/vocabulary/relators/col">col</roleTerm>
+      <roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/col">Collector</roleTerm>
+    </role>
+  </name>
+  <name authority="" type="corporate" usage="primary" valueURI="">
+    <namePart>Gross &amp; Co.</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="code" valueURI="http://id.loc.gov/vocabulary/relators/pht">pht</roleTerm>
+      <roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007721">Photographs</genre>
+  <originInfo>
+    <dateCreated encoding="w3cdtf" keyDate="yes">1888</dateCreated>
+  </originInfo>
+  <physicalDescription>
+    <extent>1 photographic print : albumen print ; 16.5 x 10.8 cm.</extent>
+  </physicalDescription>
+  <physicalDescription>
+    <form authority="lctgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm000227">Albumen prints</form>
+  </physicalDescription>
+  <note type="content">"Same gear as Casey Phila Nat" on verso.
+
+Dan Casey belonged to Philadelphia Quakers (National League) in 1887.</note>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85012026">
+    <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85012026">Baseball</topic>
+  </subject>
+  <subject>
+    <name authority="" type="corporate">
+      <namePart>Philadelphia Quakers (Baseball team)</namePart>
+    </name>
+  </subject>
+  <subject>
+    <topic authority="lctgm">Baseball</topic>
+  </subject>
+  <identifier displayLabel="NYPL catalog ID (B-number)" type="local_bnumber">b13537024</identifier>
+  <identifier displayLabel="Hades struc ID (legacy)" type="local_hades">138085</identifier>
+  <identifier displayLabel="TMS ID" type="local_tms_id">74304</identifier>
+  <identifier displayLabel="TMS Object Number" type="local_tms_object_number">Spalding 6-50</identifier>
+  <location>
+    <physicalLocation authority="marcorg" type="repository">nn</physicalLocation>
+    <physicalLocation type="division">The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Photography Collection</physicalLocation>
+    <shelfLocator>MFY 01-9000</shelfLocator>
+    <physicalLocation type="division_short_name">Wallach Division: Photography Collection</physicalLocation>
+    <physicalLocation type="code">PHG</physicalLocation>
+  </location>
+  <location>
+    <physicalLocation authority="marcorg" type="repository">nn</physicalLocation>
+    <physicalLocation type="division">The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Photography Collection</physicalLocation>
+    <shelfLocator>MFY+++ 01-9000 (Spalding, A.G. Spalding baseball collection)</shelfLocator>
+    <physicalLocation type="division_short_name">Wallach Division: Photography Collection</physicalLocation>
+    <physicalLocation type="code">PHG</physicalLocation>
+  </location>
+  <location>
+    <physicalLocation type="division">The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Photography Collection</physicalLocation>
+    <physicalLocation type="division_short_name">Wallach Division: Photography Collection</physicalLocation>
+    <physicalLocation type="code">PHG</physicalLocation>
+  </location>
+  <identifier type="uuid">fa674f00-c5f5-012f-2985-58d385a7bc34</identifier>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>The A. G. Spalding Baseball Collection</title>
+    </titleInfo>
+    <identifier type="uuid">6c7dc4f0-c5f5-012f-ff48-58d385a7bc34</identifier>
+    <identifier type="local_hades">137159 local_catnyp</identifier>
+  </relatedItem>
+</mods>    <numResults>2</numResults>
+    <capture>
+      <uuid>510d47d9-c333-a3d9-e040-e00a18064a99</uuid>
+      <apiUri>http://api.repo.nypl.org/api/v1/items/mods/510d47d9-c333-a3d9-e040-e00a18064a99</apiUri>
+      <typeOfResource>still image</typeOfResource>
+      <imageID>56071</imageID>
+      <sortString>0000000001|0000000295|0000000001</sortString>
+      <itemLink>http://digitalcollections.nypl.org/items/510d47d9-c333-a3d9-e040-e00a18064a99</itemLink>
+      <highResLink>http://link.nypl.org/pas6rDNhTRKVcy8_YSAzXgh</highResLink>
+      <orderInSequence>1</orderInSequence>
+      <isPartOfSequence>true</isPartOfSequence>
+      <totalInSequence>2</totalInSequence>
+      <title>Unidentified baseball player in catching form]</title>
+      <rightsStatement>The New York Public Library believes that this item is in the public domain under the laws of the United States, but did not make a determination as to its copyright status under the copyright laws of other countries. This item may not be in the public domain under the laws of other countries. Though not required, if you want to credit us as the source, please use the following statement, "From The New York Public Library," and provide a link back to the item on our Digital Collections site. Doing so helps us track how our collection is used and helps justify freely releasing even more content in the future.</rightsStatement>
+      <rightsStatementURI>http://rightsstatements.org/vocab/NoC-US/1.0/</rightsStatementURI>
+    </capture>
+    <capture>
+      <uuid>510d47d9-c334-a3d9-e040-e00a18064a99</uuid>
+      <apiUri>http://api.repo.nypl.org/api/v1/items/mods/510d47d9-c334-a3d9-e040-e00a18064a99</apiUri>
+      <typeOfResource>still image</typeOfResource>
+      <imageID>56072</imageID>
+      <sortString>0000000001|0000000295|0000000002</sortString>
+      <itemLink>http://digitalcollections.nypl.org/items/510d47d9-c334-a3d9-e040-e00a18064a99</itemLink>
+      <highResLink>http://link.nypl.org/7wmmrntyQEa-UE_Gh3bWIgv</highResLink>
+      <orderInSequence>2</orderInSequence>
+      <isPartOfSequence>true</isPartOfSequence>
+      <totalInSequence>2</totalInSequence>
+      <title>Unidentified baseball player in catching form]</title>
+      <rightsStatement>The New York Public Library believes that this item is in the public domain under the laws of the United States, but did not make a determination as to its copyright status under the copyright laws of other countries. This item may not be in the public domain under the laws of other countries. Though not required, if you want to credit us as the source, please use the following statement, "From The New York Public Library," and provide a link back to the item on our Digital Collections site. Doing so helps us track how our collection is used and helps justify freely releasing even more content in the future.</rightsStatement>
+      <rightsStatementURI>http://rightsstatements.org/vocab/NoC-US/1.0/</rightsStatementURI>
+    </capture>
+  </response>

@@ -1,0 +1,81 @@
+<rdf:RDF xmlns:dcx="http://purl.org/dc/xml/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<edm:ProvidedCHO rdf:about="http://127.0.0.1:8080/display/item/5ca1534b13e7b8297370a225/kokoelmat_fng_fi_app_si_A_IV_3744"><dc:title xml:lang="en">Self-Portrait with Red Spot</dc:title><dc:title xml:lang="se">Självporträtt med röd fläck</dc:title><dc:title xml:lang="fi">Punatäpläinen omakuva</dc:title><dc:title xml:lang="dn">Selvportræt med rød plet</dc:title><dc:title xml:lang="fr">Autoportrait à la tache rouge</dc:title><dc:description xml:lang="fi">Helene Schjerfbeck maalasi noin 40 omakuvaa, joista noin puolet
+      viimeisinä elinvuosinaan 1940-luvulla. Yksi tunnetuimpia omakuvia on tilauksena syntynyt
+      Mustataustainen omakuva (1915), josta Leena Ahtola-Moorhouse on kirjoittanut. Punatäpläisen
+      omakuvan (1944) hahmo on jähmettynyt ja melko eloton, mutta punainen siveltimenveto huulella
+      tuo elonmerkin. Schjerfbeckin ilmaisu vapautuu erityisesti omakuvissa, joissa hän tarkastelee
+      itseään säälimättömästi. Mutta vanhuuden väsymys on jotain aivan muuta, myös vapauttavaa –
+      menköön niin kuin menee, jäljellä pensselinvedon herkkyys. Frans Hals ja Rembrandt olivat
+      silloin parhaimmillaan. (Kirje Einar Reuterille 28.11.1926) (T) Vuosina 1942–44 Schjerfbeck
+      asui Nummelassa Luontolan parantolassa ja viimeiset vuodet 1944–45 Tukholmassa Saltsjöbadenin
+      kylpylässä. Näinä vuosina hän maalasi paitsi omakuvia, myös kukka-asetelmia sekä henkilökuvia
+      hoitajista.</dc:description><dc:description xml:lang="en">Helene Schjerfbeck painted some 40 self-portraits, about half of them
+      in her final years in the 1940s. One of the best-known is the commissioned Self-Portrait,
+      Black Background (1915), on which Leena Ahtola-Moorhouse has written. In Self-Portrait with
+      Red Spot (1944) the figure seems frozen and rather lifeless, but the red brush stroke on the
+      lip adds a vibrant touch of life. Schjerfbeck’s approach is particularly bold in the
+      self-portraits, where she scrutinizes herself without mercy. But the exhaustion of old age is
+      something completely different – liberating, too, because you can let things go their own way,
+      and are left with nothing but the sensitivity of the brush. Frans Hals and Rembrandt were the
+      best in those days. (Letter to Einar Reuter, Nov 28, 1926) (T) Schjerfbeck lived from 1942 to
+      '44 at Luontola sanatorium and spent her last years (1944–45) at Saltsjöbaden sanatorium in
+      Stockholm. During these years she painted not only self-portraits but also floral still lifes
+      and portraits of the nursing staff.</dc:description><dc:description xml:lang="se">Helene Schjerfbeck målade omkring 40 självporträtt, av vilka ungefär
+      hälften under sina sista levnadsår på 1940-talet. Ett av de mest kända självporträtten är
+      beställningsarbetet Självporträtt med svart fond (1915), som Leena Ahtola-Moorhouse har
+      skrivit om. Figuren på Självporträtt med röd fläck (1944) har stelnat och är ganska livlös,
+      men det röda penseldraget på läppen är ett livstecken. Schjerfbecks uttryck befrias i
+      synnerhet i självporträtten, där hon skoningslöst iakttar sig själv. Men ålderdomströtthet är
+      något annat, befriande med – låt det gå som det går, känslan för penseln. Frans Hals och
+      Rembrandt var bäst då. (Brev till Einar Reuter 28.11.1926) (K) Mellan 1942 och 1944 bodde
+      Schjerfbeck i Nummela på Luontola sanatorium, och de sista åren, 1944–1945, bodde hon i
+      Stockholm på Saltsjöbadens kurhotell. Under de här åren målade hon självporträtt men också
+      blomsterstilleben och porträtt av sköterskorna.</dc:description><dc:type>artwork</dc:type><dc:type xml:lang="@type:artwork-class">maalaus</dc:type><dc:identifier xml:lang="@type:id">A IV 3744</dc:identifier><dc:identifier rdf:resource="http://kokoelmat.fng.fi/app?si=A+IV+3744"/><dc:identifier xml:lang="@type:si">http://kansallisgalleria.fi/E42_Object_Identifier/A_IV_3744</dc:identifier><dc:identifier xml:lang="@type:si">http://kansallisgalleria.fi/Teos_0268C809-DEA6-48FD-AA65-1671FD5A0D2B</dc:identifier><dc:creator xml:lang="['@si:http://kansallisgalleria.fi/E39.Actor_76EF2D1D-802A-4D77-9732-17DCB9B55B5E', '@uri:http://kokoelmat.fng.fi/app?si=Schjerfbeck%2C+Helene']">Schjerfbeck, Helene</dc:creator><dc:publisher xml:lang="@type:unit">Ateneum</dc:publisher><dc:publisher>Finnish National Gallery</dc:publisher><dc:date xml:lang="@type:creation">1944</dc:date><dc:date xml:lang="@type:acquisition">http://kansallisgalleria.fi/E52.Time-Span_1967_03_22</dc:date><dc:subject xml:lang="@type:keyword">muotokuva</dc:subject><dc:subject xml:lang="@type:keyword">omakuva</dc:subject><dc:subject xml:lang="@type:keyword">nainen</dc:subject><dc:subject xml:lang="@type:keyword">vanhus</dc:subject><dc:subject xml:lang="@type:keyword">rintakuva</dc:subject><dc:format xml:lang="@type:material">pohjamateriaali kangas</dc:format><dc:format xml:lang="@type:material">materiaali öljy</dc:format><dc:format xml:lang="@type:dimension">korkeus 45,00 cm</dc:format><dc:format xml:lang="@type:dimension">leveys 37,00 cm</dc:format><dc:relation xml:lang="['@type:image', '@license:CC0', '@url:http://kokoelmat.fng.fi/app?action=image&amp;profile=CC0&amp;iid=J0141900']">J0141900</dc:relation><dc:relation xml:lang="['@type:image', '@license:CC0', '@url:http://kokoelmat.fng.fi/app?action=image&amp;profile=CC0&amp;iid=X0465100']">X0465100</dc:relation><dc:relation xml:lang="@type:collection">Gösta ja Bertha Stenmanin lahjoituskokoelma</dc:relation><dc:relation xml:lang="@type:usage">"Taiteilijat katselevat itseään", Taidesalonki Husa, Tampere 8.12.1967
+      - 28.1.1968</dc:relation><dc:relation xml:lang="@type:usage">XXVIII Biennale / Venezia 1956, Padiglione Finlandese, Helene
+      Schjerfbeck, Pitture, Paintings.</dc:relation><dc:relation xml:lang="@type:usage">Onni sulla ja suru mulla / Din lycka och min sorg / Joy for You,
+      Sorrow for Me, Ateneum [vaihtuvien näyttelyiden tila] 29.6.2002 - 1.9.2002</dc:relation><dc:relation xml:lang="@type:usage">Sirkustyttö, veljenpoika ja muita aarteita Ateneumissa 19.5. -
+      13.8.2006. [kesänäyttely 1.krs.]</dc:relation><dc:relation xml:lang="@type:usage">Väreilyä - Kesänäyttely / Vibrationer - Sommarutställning / Ripples of
+      Colour - Summer exhibition, Ateneum 5.6.-17.8.2003</dc:relation><dc:relation xml:lang="@type:usage">I Mørkets lys, Nordiske Mesterverker, Kunstforeningen, København, 12.
+      januar - 17. mars 1996.</dc:relation><dc:relation xml:lang="@type:usage">La Biennale de Venezia, 46. esposizione internazionale d´arte,
+      identity and alterity figures of the body 1885/1995, 1995.</dc:relation><dc:relation xml:lang="@type:usage">Lumière Du Monde Lumière Du Ciel, Musée d'Art moderne de la Ville de
+      Paris 7 février 17 mai 1998.</dc:relation><dc:relation xml:lang="@type:usage">Muotokuvia Suomen taiteessa, Ateneum 13.4.-14.5.1978</dc:relation><dc:relation xml:lang="@type:usage">Naisten huoneet, Taidetta Ateneumin kokoelmista 1840-1950 / Kvinnor i
+      rum, Konst ur Ateneums samlingar 1840-1950 / Women's Rooms, Art from collection of the Museum
+      of Finnish Art Ateneum 1840 to 1950, Ateneum 14.3.-21.9.1997.</dc:relation><dc:relation xml:lang="@type:usage">Helene Schjerfbeck, Kvalitetsmåleri S [Stenmanin], Storg.10, Stockhom,
+      [septemper] 1958.</dc:relation><dc:relation xml:lang="@type:usage">Helene Schjerfbeck, Stenmans Konstsalong, Stockholm 1944</dc:relation><dc:relation xml:lang="@type:usage">Helene Schjerfbeck, The Phillips Collection, Washington D.C.
+      16.5.-30.8.1992 - The National Academy of Design, New York, USA
+      23.9.1992-10.1.1993</dc:relation><dc:relation xml:lang="@type:usage">Hyvinkään Taidetalossa 20.9.-4.10.1973, Helena Schjerfbeck
+      1862-1946.</dc:relation><dc:relation xml:lang="@type:usage">I morkrets lys- Nordiske mesterverker, Kunstforeningen,
+      12.1.-17.3.1996</dc:relation><dc:relation xml:lang="@type:usage">Helene Schjerfbeck 1862-1946, Prins Eugens Waldemarsudde 17 september
+      - 22 november 1987[- Göteborgs Konstmuseum 28.11.1987-15.2.1988 - Kunstnernes Hus, Oslo
+      5.3.-3.4.1988].</dc:relation><dc:relation xml:lang="@type:usage">Helene Schjerfbeck 1862-1962, Hyllningsutställning, Stenmans
+      Konstsalong, Storgatan 10, Stockholm 1962</dc:relation><dc:relation xml:lang="@type:usage">Helene Schjerfbeck utställning i Ekenäs museihall 9-24 oktober
+      1965.</dc:relation><dc:relation xml:lang="@type:usage">Helene Schjerfbeck, Ateneum 2.2.-5.4.1992.</dc:relation><dc:relation xml:lang="@type:usage">Helene Schjerfbeck, In Memoriam, S [Stenman], Storgatan 10, Stockholm
+      [september] 1946.</dc:relation><dc:relation xml:lang="@type:usage">Helene Schjerfbeck [2.10.2014-11.1.2015] Schirn Kunsthalle
+      Frankfurt</dc:relation><dc:relation xml:lang="@type:usage">Helene Schjerfbeck 150 vuotta / 150 år / 150 years , Ateneumin
+      taidemuseo, Helsinki 1.6.-14.10.2012.</dc:relation><dc:relation xml:lang="@type:usage">Helene Schjerfbeck 1862 - 1924, Ordrupgaard [Charlottenlund, Tanska]
+      23.september 2011 - 12.februar 2012.</dc:relation><dc:relation xml:lang="@type:usage">Helene Schjerfbeck 1862-1946, Gemeentemuseum Den Haag 17 mei tot 2
+      september 2007.</dc:relation><dc:relation xml:lang="@type:usage">Helene Schjerfbeck 1862-1946, Hamburger Kunsthalle 2. Februar bis 6.
+      Mai 2007.</dc:relation><dc:relation xml:lang="@type:usage">Helene Schjerfbeck 1862-1946, Musée d´Art moderne de la Ville de Paris
+      20 octobre 2007 - 20 janvier 2008.</dc:relation><dc:relation xml:lang="@type:document">Eija Kämäräinen, Helene Schjerfbeck, Paljas minäni, Helsinki 1991,
+      s.110-111 julkaisu</dc:relation><dc:relation xml:lang="@type:document">H. Ahtela, Helena Schjerfbeck, Helsingfors 1953. elämä ja
+      teokset</dc:relation><dc:relation xml:lang="@type:document">Uwe M. Schneede, "Thus the painter reveals the soul" The
+      self-portraits. Helene Schjerfbeck 1862-1946. Published by Annabelle Görgen and Hubertus
+      Gassner. Hamburger Kunsthalle, Hamburg-München, Hirmer, 2007. näyttelykirja</dc:relation><dc:relation xml:lang="@type:document">Lena Holger, Helene Schjerfbeck, Elämä ja taide, Helsinki 1989,
+      s.48, kuva 81 julkaisu</dc:relation><dc:relation xml:lang="@type:document">Marjatta Levanto, Ateneum Opas, Keuruu 1987, s. kuva 104
+      julkaisu</dc:relation><dc:relation xml:lang="@type:document">Riikka Stewen, Helene Schjerfbeck: itsen kieltämisen ja
+      kukistamisen taide. Helene Schjerfbeck, naisia, miehiä, omakuvia, maisemia, asetelmia, toim.
+      Lena Holger, suom. Marja Alopaes, Otava, Helsinki 1997, 38 julkaisu</dc:relation><dc:relation xml:lang="@type:document">Riikka Stewen, Helene Schjerfbeck: Kunsten at forvise og øve vold.
+      Helene Schjerfbeck, kvinder, mandsportrætter, selvportrætter, landskaber, stilleben.
+      Nordjyllands Kunstmuseum, Aalborg, Danmark 1997, s. 38 julkaisu</dc:relation><dc:relation xml:lang="@type:document">Leena Ahtola Moorhouse, "Le spectateur mis à la question". Lumière
+      du monde Lumière du ciel, Musée d'Art moderne de la Ville de Paris 1998, 79, 97 (kuva)
+      julkaisu</dc:relation><dc:relation xml:lang="@type:document">Leena Ahtola-Moorhouse, And Nobody Knows What I'm Like. Helene
+      Schjerfbeck's Self-Portraits 1878-1945. Helsinki 2002. kirja</dc:relation><dc:relation xml:lang="@type:document">Leena Ahtola-Moorhouse, Helene Schjerfbeckin omakuvista. Helene
+      Schjerfbeck, Ateneum 1992. Toimittaja Leena Ahtola-Moorhouse. Helsinki 1992.
+      näyttelykirja</dc:relation><dc:relation xml:lang="@type:document">Leena Ahtola-Moorhouse, Ja kukaan ei tiedä millainen olen. Helene
+      Schjerfbeckin Omakuvat 1878-1945. Helsinki 2000. kirja</dc:relation><dc:relation xml:lang="@type:document">Leena Ahtola-Moorhouse, Och ingen vet hurudan jag är. Helene
+      Schjerfbecks Självporträtt 1878-1945. Helsinki 2000. kirja</dc:relation><dc:relation xml:lang="@type:document">H. Ahtela, Helena Schjerfbeck, Porvoo 1951. elämä ja
+      teokset</dc:relation><dc:relation xml:lang="@type:document">Hanna ja Eilif Appelberg, Helene Schjerfbeck, Elämänkuvan
+      ääriviivoja, Helsinki 1949. elämäkerta</dc:relation><dc:relation xml:lang="@type:document">Hanna och Eilif Appelberg, Helene Schjerfbeck, En biografisk
+      konturteckning, Helsingfors 1949. elämäkerta</dc:relation><dc:relation xml:lang="@type:document">Helene Schjerfbeck, Ateneum 1992. Toimittaja / Bokens redaktör /
+      Catalog editor Leena Ahtola Moorhouse. Helsinki / Helsingfors / Helsinki 1992.
+      näyttelykirja</dc:relation></edm:ProvidedCHO><ore:Aggregation rdf:about="http://127.0.0.1:8080/display/item/5ca1534b13e7b8297370a225/kokoelmat_fng_fi_app_si_A_IV_3744__#aggregation"><edm:isShownBy rdf:resource="http://127.0.0.1:8182/iiif/2/5ca1534b13e7b8297370a225%2Fkokoelmat_fng_fi_app_si_A_IV_3744__pic-1/full/full/0/default.jpg"/><edm:object rdf:resource="http://127.0.0.1:8182/iiif/2/5ca1534b13e7b8297370a225%2Fkokoelmat_fng_fi_app_si_A_IV_3744__pic-1/full/700,/0/default.jpg"/></ore:Aggregation><edm:WebResource rdf:about="http://127.0.0.1:8182/iiif/2/5ca1534b13e7b8297370a225%2Fkokoelmat_fng_fi_app_si_A_IV_3744__pic-1/full/full/0/default.jpg"><dcterms:isReferencedBy rdf:resource="http://127.0.0.1:81/iiif/pres/5ca1534b13e7b8297370a225/kokoelmat_fng_fi_app_si_A_IV_3744/manifest.json"/><svcs:has_service rdf:resource="http://127.0.0.1:8182/iiif/2/5ca1534b13e7b8297370a225%2Fkokoelmat_fng_fi_app_si_A_IV_3744__pic-1"/></edm:WebResource><svcs:Service rdf:about="http://127.0.0.1:8182/iiif/2/5ca1534b13e7b8297370a225%2Fkokoelmat_fng_fi_app_si_A_IV_3744__pic-1"><dcterms:conformsTo rdf:resource="http://iiif.io/api/image"/></svcs:Service></rdf:RDF>

@@ -1,0 +1,47 @@
+<rdf:RDF xmlns:dcx="http://purl.org/dc/xml/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:svcs="http://rdfs.org/sioc/services#" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<edm:ProvidedCHO rdf:about="http://127.0.0.1:8080/display/item/5ca1534b13e7b8297370a225/kokoelmat_fng_fi_app_si_A_2005_131"><dc:title xml:lang="en">Self-Portrait en face I</dc:title><dc:title xml:lang="se">Självporträtt en face I</dc:title><dc:title xml:lang="fi">Omakuva, en face I</dc:title><dc:description xml:lang="fi">Myöhäisimmissä omakuvissaan Schjerfbeck tutkiskelee vanhenevia
+      kasvojaan. Omakuvassa, en face I (1945) kasvot on kuvattu lähes suoraan edestä, mutta katse on
+      käännetty sivuun. Maalaus on samanaikaisesti hauras ja voimakas. Viimeiseen asti Schjerfbeck
+      halusi olla rehellinen. Hän oli muun muassa kirjoittanut vuonna 1944 kirjeessään serkuntytär
+      Dora Estlanderille, että taiteilijat, jotka ovat omakuvissaan kaunistelleet itseään, ovat
+      ikäviä. Viimeisimmät omakuvat ovat piirustuksia, joissa on kuvattuna ainoastaan kallon muoto,
+      silmänaukot, suu ja nenä. Pelkistetyimmät muistuttavat pääkalloa. Niistä aistii kuoleman
+      läheisyyden.</dc:description><dc:description xml:lang="en">In her final self-portraits Schjerfbeck pitilessly scrutinizes her
+      aging face. In Self-Portrait, en face I (1945) the face seems to be viewed head on, but the
+      eyes are looking to the side. The impression given is both fragile and powerful. To the very
+      end Schjerfbeck wanted to be honest. In 1944, for instance, she wrote to her cousin's daughter
+      Dora Estlander that artists who prettify themselves in self-portraits are boring. Her last
+      self-portraits are drawings, depicting only the shape of the skull, the eye sockets, the mouth
+      and the nose. The most reduced of all are like skulls. We sense the approach of
+      death.</dc:description><dc:description xml:lang="se">På sina sista självporträtt studerar Schjerfbeck sitt åldrande
+      ansikte. I Självporträtt, en face I (1945) är ansiktet avbildat nästan rakt framifrån, men
+      blicken är riktad mot sidan. Målningen är på en gång både skör och kraftfull. Schjerfbeck
+      ville vara ärlig ända till slutet. Hon skrev bland annat i ett brev till kusindottern Dora
+      Estlander 1944 att konstnärer som förskönar sig i sina självporträtt är tråkiga. De sista
+      självporträtten är teckningar där endast skallens form, ögonhålorna, munnen och näsan
+      avbildas. De mest avskalade påminner om en dödskalle, och man kan ana dödens
+      närhet.</dc:description><dc:type>artwork</dc:type><dc:type xml:lang="@type:artwork-class">maalaus</dc:type><dc:identifier xml:lang="@type:id">A-2005-131</dc:identifier><dc:identifier rdf:resource="http://kokoelmat.fng.fi/app?si=A-2005-131"/><dc:identifier xml:lang="@type:si">http://kansallisgalleria.fi/E42_Object_Identifier/A-2005-131</dc:identifier><dc:identifier xml:lang="@type:si">http://kansallisgalleria.fi/Teos_232C4236-79AB-4ED5-9718-5A5C20571E4F</dc:identifier><dc:creator xml:lang="['@si:http://kansallisgalleria.fi/E39.Actor_76EF2D1D-802A-4D77-9732-17DCB9B55B5E', '@uri:http://kokoelmat.fng.fi/app?si=Schjerfbeck%2C+Helene']">Schjerfbeck, Helene</dc:creator><dc:publisher xml:lang="@type:unit">Ateneum</dc:publisher><dc:publisher>Finnish National Gallery</dc:publisher><dc:date xml:lang="@type:creation">1945</dc:date><dc:date xml:lang="@type:acquisition">2005-08-03</dc:date><dc:format xml:lang="@type:dimension">korkeus 39,50 cm</dc:format><dc:format xml:lang="@type:dimension">leveys 31,00 cm</dc:format><dc:relation xml:lang="['@type:image', '@license:CC0', '@url:http://kokoelmat.fng.fi/app?action=image&amp;profile=CC0&amp;iid=H0108500']">H0108500</dc:relation><dc:relation xml:lang="['@type:image', '@license:CC0', '@url:http://kokoelmat.fng.fi/app?action=image&amp;profile=CC0&amp;iid=tunn060321ap003']">tunn060321ap003</dc:relation><dc:relation xml:lang="@type:collection">Yrjö ja Nanny Kauniston kokoelma</dc:relation><dc:relation xml:lang="@type:usage">Gösta Stenmanin kokoelma ennen ja nyt / Gösta Stenmans samling förr
+      och nu [Ateneumin taidemuseo 4.3.-9.4.1967 - Tampereen taidemuseo
+      17.4.-7.5.1967].</dc:relation><dc:relation xml:lang="@type:usage">Helene Schjerfbeck [2.10.2014-11.1.2015] Schirn Kunsthalle
+      Frankfurt</dc:relation><dc:relation xml:lang="@type:usage">Helene Schjerfbeck 150 vuotta / 150 år / 150 years , Ateneumin
+      taidemuseo, Helsinki 1.6.-14.10.2012.</dc:relation><dc:relation xml:lang="@type:usage">Helene Schjerfbeck 1862 - 1924, Ordrupgaard [Charlottenlund, Tanska]
+      23.september 2011 - 12.februar 2012.</dc:relation><dc:relation xml:lang="@type:usage">Helene Schjerfbeck 1862-1946, Gemeentemuseum Den Haag 17 mei tot 2
+      september 2007.</dc:relation><dc:relation xml:lang="@type:usage">Helene Schjerfbeck 1862-1946, Hamburger Kunsthalle 2. Februar bis 6.
+      Mai 2007.</dc:relation><dc:relation xml:lang="@type:usage">Helene Schjerfbeck: Reflections [6.8.-12.10.2015] The Miyagi Museum of
+      Art</dc:relation><dc:relation xml:lang="@type:usage">Lumière Du Monde Lumière Du Ciel, Musée d'Art moderne de la Ville de
+      Paris 7 février 17 mai 1998.</dc:relation><dc:relation xml:lang="@type:usage">Muistonäyttely, Helene Schjerfbeck, Minnesutställning Taidehallissa
+      10.4.-10.5.1954 i Konsthallen. Nykytaide - Nutidskonst.</dc:relation><dc:relation xml:lang="@type:usage">Yrjö ja Nanny Kauniston lahjoituskokoelma, Ateneum [salit 21-24]
+      9.11.2005 - 29.1.2006</dc:relation><dc:relation xml:lang="@type:usage">Helene Schjerfbeck 1862-1946, Musée d´Art moderne de la Ville de Paris
+      20 octobre 2007 - 20 janvier 2008.</dc:relation><dc:relation xml:lang="@type:usage">Helene Schjerfbeck, Ateneum 2.2.-5.4.1992.</dc:relation><dc:relation xml:lang="@type:usage">Helene Schjerfbeck, Kvalitetsmåleri S [Stenmanin], Storg.10, Stockhom,
+      [septemper] 1958.</dc:relation><dc:relation xml:lang="@type:usage">Helene Schjerfbeck: Reflections [10.1.-27.3.2016] The Museum of Modern
+      Art, Hayama</dc:relation><dc:relation xml:lang="@type:usage">Helene Schjerfbeck: Reflections [2.6.-26.7.2015] The University Art
+      Museum, Tokyo University of the Arts</dc:relation><dc:relation xml:lang="@type:usage">Helene Schjerfbeck: Reflections [30.10.2015-3.1.2016] Okuda Genso
+      Sayume Art Museum</dc:relation><dc:relation xml:lang="@type:document">H. Ahtela, Helena Schjerfbeck, Helsingfors 1953. elämä ja
+      teokset</dc:relation><dc:relation xml:lang="@type:document">Helene Schjerfbeck, Ateneum 1992. Toimittaja / Bokens redaktör /
+      Catalog editor Leena Ahtola Moorhouse. Helsinki / Helsingfors / Helsinki 1992.
+      näyttelykirja</dc:relation><dc:relation xml:lang="@type:document">Leena Ahtola-Moorhouse, And Nobody Knows What I'm Like. Helene
+      Schjerfbeck's Self-Portraits 1878-1945. Helsinki 2002. kirja</dc:relation><dc:relation xml:lang="@type:document">Leena Ahtola-Moorhouse, Ja kukaan ei tiedä millainen olen. Helene
+      Schjerfbeckin Omakuvat 1878-1945. Helsinki 2000. kirja</dc:relation><dc:relation xml:lang="@type:document">Leena Ahtola-Moorhouse, Nanny ja Yrjö Kauniston lahjoituskokoelma /
+      Nanny och Yrjö Kaunistos donationssamling / Nanny and Yrjö Kaunisto Donation Collection,
+      Ateneum. Helsinki 2009. kokoelmakirjat</dc:relation><dc:relation xml:lang="@type:document">Leena Ahtola-Moorhouse, Och ingen vet hurudan jag är. Helene
+      Schjerfbecks Självporträtt 1878-1945. Helsinki 2000. kirja</dc:relation></edm:ProvidedCHO><ore:Aggregation rdf:about="http://127.0.0.1:8080/display/item/5ca1534b13e7b8297370a225/kokoelmat_fng_fi_app_si_A_2005_131__#aggregation"><edm:isShownBy rdf:resource="http://127.0.0.1:8182/iiif/2/5ca1534b13e7b8297370a225%2Fkokoelmat_fng_fi_app_si_A_2005_131__pic-1/full/full/0/default.jpg"/><edm:object rdf:resource="http://127.0.0.1:8182/iiif/2/5ca1534b13e7b8297370a225%2Fkokoelmat_fng_fi_app_si_A_2005_131__pic-1/full/700,/0/default.jpg"/></ore:Aggregation><edm:WebResource rdf:about="http://127.0.0.1:8182/iiif/2/5ca1534b13e7b8297370a225%2Fkokoelmat_fng_fi_app_si_A_2005_131__pic-1/full/full/0/default.jpg"><dcterms:isReferencedBy rdf:resource="http://127.0.0.1:81/iiif/pres/5ca1534b13e7b8297370a225/kokoelmat_fng_fi_app_si_A_2005_131/manifest.json"/><svcs:has_service rdf:resource="http://127.0.0.1:8182/iiif/2/5ca1534b13e7b8297370a225%2Fkokoelmat_fng_fi_app_si_A_2005_131__pic-1"/></edm:WebResource><svcs:Service rdf:about="http://127.0.0.1:8182/iiif/2/5ca1534b13e7b8297370a225%2Fkokoelmat_fng_fi_app_si_A_2005_131__pic-1"><dcterms:conformsTo rdf:resource="http://iiif.io/api/image"/></svcs:Service></rdf:RDF>

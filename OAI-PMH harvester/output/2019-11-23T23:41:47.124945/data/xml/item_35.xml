@@ -1,0 +1,71 @@
+<response>
+    <headers>
+      <status>success</status>
+      <code>200</code>
+      <message>ok</message>
+    </headers>
+<mods version="3.4" schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo authority="" lang="" script="" type="" usage="primary">
+    <title>Martense House</title>
+  </titleInfo>
+  <typeOfResource collection="yes" usage="primary">still image</typeOfResource>
+  <genre authority="lctgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007721">Photographs</genre>
+  <originInfo>
+    <dateCreated encoding="w3cdtf" keyDate="yes" qualifier="approximate">1890</dateCreated>
+  </originInfo>
+  <subject valueURI="http://id.loc.gov/authorities/names/n79007751">
+    <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n79007751">New York (N.Y.)</geographic>
+  </subject>
+  <subject authority="">
+    <geographic valueURI="http://www.geonames.org/5128581">New York City</geographic>
+  </subject>
+  <subject>
+    <geographic authority="naf" valueURI="http://id.loc.gov/authorities/names/n80040311">Brooklyn (New York, N.Y.)</geographic>
+  </subject>
+  <subject authority="">
+    <geographic>Flatbush Av-Martense St (Brooklyn)</geographic>
+  </subject>
+  <identifier displayLabel="NYPL catalog ID (B-number)" type="local_bnumber">pending</identifier>
+  <location>
+    <physicalLocation authority="marcorg" type="repository">nn</physicalLocation>
+    <physicalLocation type="division">Irma and Paul Milstein Division of United States History, Local History and Genealogy</physicalLocation>
+    <physicalLocation type="division_short_name">Milstein Division</physicalLocation>
+    <physicalLocation type="code">LHG</physicalLocation>
+  </location>
+  <identifier type="uuid">b7f34a20-c0f9-0132-f210-58d385a7bbd0</identifier>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>General views, Flatbush Ave.</title>
+    </titleInfo>
+    <identifier type="uuid">5fd29c80-c0f9-0132-4cbd-58d385a7bbd0</identifier>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Scrapbooks of New York City views Volume 35</title>
+      </titleInfo>
+      <identifier type="uuid">4c1add80-bf8f-0132-7a34-58d385a7b928</identifier>
+      <relatedItem type="host">
+        <titleInfo>
+          <title>Scrapbooks of New York City views</title>
+        </titleInfo>
+        <identifier type="uuid">530a11c0-c8b6-0131-2d6e-58d385a7b928</identifier>
+        <identifier type="local_bnumber">pending </identifier>
+      </relatedItem>
+    </relatedItem>
+  </relatedItem>
+</mods>    <numResults>1</numResults>
+    <capture>
+      <uuid>b8a643b0-c0f9-0132-3dbf-58d385a7bbd0</uuid>
+      <apiUri>http://api.repo.nypl.org/api/v1/items/mods/b8a643b0-c0f9-0132-3dbf-58d385a7bbd0</apiUri>
+      <typeOfResource>still image</typeOfResource>
+      <imageID>5242127</imageID>
+      <sortString>0000000001|0000000028|0000000009|0000000004|0000000001</sortString>
+      <itemLink>http://digitalcollections.nypl.org/items/b8a643b0-c0f9-0132-3dbf-58d385a7bbd0</itemLink>
+      <highResLink>http://link.nypl.org/cNyCkh_iRfSyH8UdgJtG1wU</highResLink>
+      <orderInSequence>1</orderInSequence>
+      <isPartOfSequence>false</isPartOfSequence>
+      <totalInSequence>1</totalInSequence>
+      <title>Martense House</title>
+      <rightsStatement>The New York Public Library believes that this item is in the public domain under the laws of the United States, but did not make a determination as to its copyright status under the copyright laws of other countries. This item may not be in the public domain under the laws of other countries. Though not required, if you want to credit us as the source, please use the following statement, "From The New York Public Library," and provide a link back to the item on our Digital Collections site. Doing so helps us track how our collection is used and helps justify freely releasing even more content in the future.</rightsStatement>
+      <rightsStatementURI>http://rightsstatements.org/vocab/NoC-US/1.0/</rightsStatementURI>
+    </capture>
+  </response>

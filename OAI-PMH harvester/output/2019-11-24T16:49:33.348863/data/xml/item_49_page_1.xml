@@ -1,0 +1,77 @@
+<response>
+    <headers>
+      <status>success</status>
+      <code>200</code>
+      <message>ok</message>
+    </headers>
+<mods version="3.4" schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo authority="" lang="" script="" supplied="yes" type="" usage="primary">
+    <title>Gittings in "People of the NGTF" ad</title>
+  </titleInfo>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007721">Photographs</genre>
+  <originInfo>
+    <dateCreated encoding="w3cdtf" point="start" qualifier="approximate">1973</dateCreated>
+    <dateCreated encoding="w3cdtf" point="end" qualifier="approximate">1976</dateCreated>
+  </originInfo>
+  <language objectPart="">
+    <languageTerm authority="iso639-2b" type="code" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng">eng</languageTerm>
+    <languageTerm authority="iso639-2b" type="text" valueURI="http://id.loc.gov/vocabulary/iso639-2/eng">English</languageTerm>
+  </language>
+  <note type="content">From attached note:  -- Barbara Gittings, another charter board member, in the "People of NGTF" ad series, mid-1970's.</note>
+  <note type="statement of responsibility">Creator unknown</note>
+  <identifier displayLabel="MSS Unit ID" type="local_mss">6397</identifier>
+  <identifier displayLabel="NYPL catalog ID (B-number)" type="local_bnumber">b19071200</identifier>
+  <identifier displayLabel="Hades struc ID (legacy)" type="local_hades">1081047</identifier>
+  <location>
+    <physicalLocation authority="marcorg" type="repository">nn</physicalLocation>
+    <physicalLocation type="division">Manuscripts and Archives Division</physicalLocation>
+    <shelfLocator>MssCol 6397</shelfLocator>
+    <physicalLocation type="division_short_name">Manuscripts and Archives Division</physicalLocation>
+    <physicalLocation type="code">MSS</physicalLocation>
+  </location>
+  <identifier type="uuid">7e558080-c5da-012f-6ac7-58d385a7bc34</identifier>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Barbara Gittings at home, circa 1973; Conference in Washington, D.C., circa 1975; John Cunningham and Frances Hanckel of the ALA's Task Force on Gay Liberation, circa mid-1970's</title>
+    </titleInfo>
+    <identifier type="uuid">7b454af0-c5da-012f-a87b-58d385a7bc34</identifier>
+    <identifier type="local_hades">1078857 </identifier>
+    <relatedItem type="host">
+      <titleInfo>
+        <title>Professional and activist photography</title>
+      </titleInfo>
+      <identifier type="uuid">78dc7ed0-c5d9-012f-dd97-58d385a7bc34</identifier>
+      <identifier type="local_hades">1078770 local_archives_ead</identifier>
+      <relatedItem type="host">
+        <titleInfo>
+          <title>Photographs</title>
+        </titleInfo>
+        <identifier type="uuid">fd312b60-a737-0137-a046-7fa6aa16c7a6</identifier>
+        <relatedItem type="host">
+          <titleInfo>
+            <title>Barbara Gittings and Kay Tobin Lahusen gay history papers and photographs</title>
+          </titleInfo>
+          <identifier type="uuid">787827a0-c5d9-012f-a36c-58d385a7bc34</identifier>
+          <identifier type="local_hades">1078769 local_hades_collection</identifier>
+        </relatedItem>
+      </relatedItem>
+    </relatedItem>
+  </relatedItem>
+</mods>    <numResults>1</numResults>
+    <capture>
+      <uuid>510d47e3-b54d-a3d9-e040-e00a18064a99</uuid>
+      <apiUri>http://api.repo.nypl.org/api/v1/items/mods/510d47e3-b54d-a3d9-e040-e00a18064a99</apiUri>
+      <typeOfResource>still image</typeOfResource>
+      <imageID>1606304</imageID>
+      <sortString>0000000001|0000000004|0000000003|0000000064|0000000009|0000000001</sortString>
+      <itemLink>http://digitalcollections.nypl.org/items/510d47e3-b54d-a3d9-e040-e00a18064a99</itemLink>
+      <highResLink>http://link.nypl.org/1_SIOIdhSb68VEKt2YyK9Qm</highResLink>
+      <orderInSequence>1</orderInSequence>
+      <isPartOfSequence>false</isPartOfSequence>
+      <totalInSequence>1</totalInSequence>
+      <title>Gittings in "People of the NGTF" ad</title>
+      <rightsStatement>The New York Public Library believes that this item is in the public domain under the laws of the United States, but did not make a determination as to its copyright status under the copyright laws of other countries. This item may not be in the public domain under the laws of other countries. Though not required, if you want to credit us as the source, please use the following statement, "From The New York Public Library," and provide a link back to the item on our Digital Collections site. Doing so helps us track how our collection is used and helps justify freely releasing even more content in the future.</rightsStatement>
+      <rightsStatementURI>http://rightsstatements.org/vocab/NoC-US/1.0/</rightsStatementURI>
+    </capture>
+  </response>

@@ -1,0 +1,10 @@
+
+/!\ --> Page 1
+/!\ http://api.repo.nypl.org/api/v1/items/search?&publicDomainOnly=true&q=Photographs&per_page=500&field=genre
+/!\ 138,604 items retrieved from the search 'Photographs'
+	 - 
+278 pages to process
+/!\ 
+--> Item #1/138,604
+/!\ http://api.repo.nypl.org/api/v1/items/mods_captures/7d71ff40-b3cb-0132-6b3b-58d385a7bbd0
+/!\ - json file created --> ok

@@ -1,0 +1,102 @@
+<response>
+    <headers>
+      <status>success</status>
+      <code>200</code>
+      <message>ok</message>
+    </headers>
+<mods version="3.4" schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo supplied="no" usage="primary">
+    <title>U. A. Coates, Yours truly U. A. Coates</title>
+  </titleInfo>
+  <name authority="naf" type="personal" valueURI="http://id.loc.gov/authorities/names/n84216253">
+    <namePart>Spalding, A. G. (Albert Goodwill)</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="code" valueURI="http://id.loc.gov/vocabulary/relators/col">col</roleTerm>
+      <roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/col">Collector</roleTerm>
+    </role>
+  </name>
+  <name authority="" type="personal" usage="primary" valueURI="">
+    <namePart>Ridding, C.</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="code" valueURI="http://id.loc.gov/vocabulary/relators/pht">pht</roleTerm>
+      <roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007721">Photographs</genre>
+  <originInfo>
+    <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="approximate">1880</dateCreated>
+    <dateCreated encoding="w3cdtf" point="end" qualifier="approximate">1889</dateCreated>
+    <place>
+      <placeTerm>Walsal</placeTerm>
+    </place>
+  </originInfo>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85012026">
+    <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85012026">Baseball</topic>
+  </subject>
+  <subject>
+    <topic authority="lctgm">Baseball</topic>
+  </subject>
+  <identifier displayLabel="NYPL catalog ID (B-number)" type="local_bnumber">b13537024</identifier>
+  <identifier displayLabel="Hades struc ID (legacy)" type="local_hades">138421</identifier>
+  <identifier displayLabel="TMS ID" type="local_tms_id">74035</identifier>
+  <identifier displayLabel="TMS Object Number" type="local_tms_object_number">Spalding 1-26</identifier>
+  <location>
+    <physicalLocation authority="marcorg" type="repository">nn</physicalLocation>
+    <physicalLocation type="division">The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Photography Collection</physicalLocation>
+    <shelfLocator>MFY 01-9000</shelfLocator>
+    <physicalLocation type="division_short_name">Wallach Division: Photography Collection</physicalLocation>
+    <physicalLocation type="code">PHG</physicalLocation>
+  </location>
+  <location>
+    <physicalLocation authority="marcorg" type="repository">nn</physicalLocation>
+    <physicalLocation type="division">The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Photography Collection</physicalLocation>
+    <shelfLocator>MFY+++ 01-9000 (Spalding, A.G. Spalding baseball collection)</shelfLocator>
+    <physicalLocation type="division_short_name">Wallach Division: Photography Collection</physicalLocation>
+    <physicalLocation type="code">PHG</physicalLocation>
+  </location>
+  <location>
+    <physicalLocation type="division">The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Photography Collection</physicalLocation>
+    <physicalLocation type="division_short_name">Wallach Division: Photography Collection</physicalLocation>
+    <physicalLocation type="code">PHG</physicalLocation>
+  </location>
+  <identifier type="uuid">7938a210-c5f5-012f-06ee-58d385a7bc34</identifier>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>The A. G. Spalding Baseball Collection</title>
+    </titleInfo>
+    <identifier type="uuid">6c7dc4f0-c5f5-012f-ff48-58d385a7bc34</identifier>
+    <identifier type="local_hades">137159 local_catnyp</identifier>
+  </relatedItem>
+</mods>    <numResults>2</numResults>
+    <capture>
+      <uuid>510d47d9-c482-a3d9-e040-e00a18064a99</uuid>
+      <apiUri>http://api.repo.nypl.org/api/v1/items/mods/510d47d9-c482-a3d9-e040-e00a18064a99</apiUri>
+      <typeOfResource>still image</typeOfResource>
+      <imageID>55735</imageID>
+      <sortString>0000000001|0000000026|0000000001</sortString>
+      <itemLink>http://digitalcollections.nypl.org/items/510d47d9-c482-a3d9-e040-e00a18064a99</itemLink>
+      <highResLink>http://link.nypl.org/XKN3w4lgSI-7qTXalmdsxAH</highResLink>
+      <orderInSequence>1</orderInSequence>
+      <isPartOfSequence>true</isPartOfSequence>
+      <totalInSequence>2</totalInSequence>
+      <title>U. A. Coates, Yours truly U. A. Coates</title>
+      <rightsStatement>The New York Public Library believes that this item is in the public domain under the laws of the United States, but did not make a determination as to its copyright status under the copyright laws of other countries. This item may not be in the public domain under the laws of other countries. Though not required, if you want to credit us as the source, please use the following statement, "From The New York Public Library," and provide a link back to the item on our Digital Collections site. Doing so helps us track how our collection is used and helps justify freely releasing even more content in the future.</rightsStatement>
+      <rightsStatementURI>http://rightsstatements.org/vocab/NoC-US/1.0/</rightsStatementURI>
+    </capture>
+    <capture>
+      <uuid>510d47d9-c483-a3d9-e040-e00a18064a99</uuid>
+      <apiUri>http://api.repo.nypl.org/api/v1/items/mods/510d47d9-c483-a3d9-e040-e00a18064a99</apiUri>
+      <typeOfResource>still image</typeOfResource>
+      <imageID>55736</imageID>
+      <sortString>0000000001|0000000026|0000000002</sortString>
+      <itemLink>http://digitalcollections.nypl.org/items/510d47d9-c483-a3d9-e040-e00a18064a99</itemLink>
+      <highResLink>http://link.nypl.org/a7xgzySvTzW9MO7lXt6hXwU</highResLink>
+      <orderInSequence>2</orderInSequence>
+      <isPartOfSequence>true</isPartOfSequence>
+      <totalInSequence>2</totalInSequence>
+      <title>U. A. Coates, Yours truly U. A. Coates</title>
+      <rightsStatement>The New York Public Library believes that this item is in the public domain under the laws of the United States, but did not make a determination as to its copyright status under the copyright laws of other countries. This item may not be in the public domain under the laws of other countries. Though not required, if you want to credit us as the source, please use the following statement, "From The New York Public Library," and provide a link back to the item on our Digital Collections site. Doing so helps us track how our collection is used and helps justify freely releasing even more content in the future.</rightsStatement>
+      <rightsStatementURI>http://rightsstatements.org/vocab/NoC-US/1.0/</rightsStatementURI>
+    </capture>
+  </response>

@@ -1,0 +1,92 @@
+<response>
+    <headers>
+      <status>success</status>
+      <code>200</code>
+      <message>ok</message>
+    </headers>
+<mods version="3.4" schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+  <titleInfo supplied="no" usage="primary">
+    <title>Fig 9: Eighteen players (nine on a side) with a ball and bat, playing the American Game of Baseball, as it was originally designed and named "Baseball," by Abner</title>
+  </titleInfo>
+  <name authority="naf" type="personal" valueURI="http://id.loc.gov/authorities/names/n84216253">
+    <namePart>Spalding, A. G. (Albert Goodwill)</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="code" valueURI="http://id.loc.gov/vocabulary/relators/col">col</roleTerm>
+      <roleTerm authority="marcrelator" type="text" valueURI="http://id.loc.gov/vocabulary/relators/col">Collector</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>still image</typeOfResource>
+  <genre authority="lctgm" valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007721">Photographs</genre>
+  <originInfo>
+    <dateCreated encoding="w3cdtf" keyDate="yes" point="start" qualifier="approximate">1870</dateCreated>
+    <dateCreated encoding="w3cdtf" point="end" qualifier="approximate">1899</dateCreated>
+  </originInfo>
+  <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85012026">
+    <topic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85012026">Baseball</topic>
+  </subject>
+  <subject>
+    <topic authority="lctgm">Baseball</topic>
+  </subject>
+  <identifier displayLabel="NYPL catalog ID (B-number)" type="local_bnumber">b13537024</identifier>
+  <identifier displayLabel="Hades struc ID (legacy)" type="local_hades">137967</identifier>
+  <identifier displayLabel="TMS ID" type="local_tms_id">74349</identifier>
+  <identifier displayLabel="TMS Object Number" type="local_tms_object_number">Spalding 7-25</identifier>
+  <location>
+    <physicalLocation authority="marcorg" type="repository">nn</physicalLocation>
+    <physicalLocation type="division">The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Photography Collection</physicalLocation>
+    <shelfLocator>MFY 01-9000</shelfLocator>
+    <physicalLocation type="division_short_name">Wallach Division: Photography Collection</physicalLocation>
+    <physicalLocation type="code">PHG</physicalLocation>
+  </location>
+  <location>
+    <physicalLocation authority="marcorg" type="repository">nn</physicalLocation>
+    <physicalLocation type="division">The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Photography Collection</physicalLocation>
+    <shelfLocator>MFY+++ 01-9000 (Spalding, A.G. Spalding baseball collection)</shelfLocator>
+    <physicalLocation type="division_short_name">Wallach Division: Photography Collection</physicalLocation>
+    <physicalLocation type="code">PHG</physicalLocation>
+  </location>
+  <location>
+    <physicalLocation type="division">The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Photography Collection</physicalLocation>
+    <physicalLocation type="division_short_name">Wallach Division: Photography Collection</physicalLocation>
+    <physicalLocation type="code">PHG</physicalLocation>
+  </location>
+  <identifier type="uuid">0dad32f0-c5f6-012f-dab9-58d385a7bc34</identifier>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>The A. G. Spalding Baseball Collection</title>
+    </titleInfo>
+    <identifier type="uuid">6c7dc4f0-c5f5-012f-ff48-58d385a7bc34</identifier>
+    <identifier type="local_hades">137159 local_catnyp</identifier>
+  </relatedItem>
+</mods>    <numResults>2</numResults>
+    <capture>
+      <uuid>510d47d9-c2cb-a3d9-e040-e00a18064a99</uuid>
+      <apiUri>http://api.repo.nypl.org/api/v1/items/mods/510d47d9-c2cb-a3d9-e040-e00a18064a99</apiUri>
+      <typeOfResource>still image</typeOfResource>
+      <imageID>56159</imageID>
+      <sortString>0000000001|0000000339|0000000001</sortString>
+      <itemLink>http://digitalcollections.nypl.org/items/510d47d9-c2cb-a3d9-e040-e00a18064a99</itemLink>
+      <highResLink>http://link.nypl.org/C13Uop_8R7-xpDDsKvlAXAo</highResLink>
+      <orderInSequence>1</orderInSequence>
+      <isPartOfSequence>true</isPartOfSequence>
+      <totalInSequence>2</totalInSequence>
+      <title>Fig 9: Eighteen players (nine on a side) with a ball and bat, playing the American Game of Baseball, as it was originally designed and named "Baseball," by Abner</title>
+      <rightsStatement>The New York Public Library believes that this item is in the public domain under the laws of the United States, but did not make a determination as to its copyright status under the copyright laws of other countries. This item may not be in the public domain under the laws of other countries. Though not required, if you want to credit us as the source, please use the following statement, "From The New York Public Library," and provide a link back to the item on our Digital Collections site. Doing so helps us track how our collection is used and helps justify freely releasing even more content in the future.</rightsStatement>
+      <rightsStatementURI>http://rightsstatements.org/vocab/NoC-US/1.0/</rightsStatementURI>
+    </capture>
+    <capture>
+      <uuid>510d47d9-c2cc-a3d9-e040-e00a18064a99</uuid>
+      <apiUri>http://api.repo.nypl.org/api/v1/items/mods/510d47d9-c2cc-a3d9-e040-e00a18064a99</apiUri>
+      <typeOfResource>still image</typeOfResource>
+      <imageID>56160</imageID>
+      <sortString>0000000001|0000000339|0000000002</sortString>
+      <itemLink>http://digitalcollections.nypl.org/items/510d47d9-c2cc-a3d9-e040-e00a18064a99</itemLink>
+      <highResLink>http://link.nypl.org/N5T0vrLzQvyyAp6IKAMhigt</highResLink>
+      <orderInSequence>2</orderInSequence>
+      <isPartOfSequence>true</isPartOfSequence>
+      <totalInSequence>2</totalInSequence>
+      <title>Fig 9: Eighteen players (nine on a side) with a ball and bat, playing the American Game of Baseball, as it was originally designed and named "Baseball," by Abner</title>
+      <rightsStatement>The New York Public Library believes that this item is in the public domain under the laws of the United States, but did not make a determination as to its copyright status under the copyright laws of other countries. This item may not be in the public domain under the laws of other countries. Though not required, if you want to credit us as the source, please use the following statement, "From The New York Public Library," and provide a link back to the item on our Digital Collections site. Doing so helps us track how our collection is used and helps justify freely releasing even more content in the future.</rightsStatement>
+      <rightsStatementURI>http://rightsstatements.org/vocab/NoC-US/1.0/</rightsStatementURI>
+    </capture>
+  </response>
